@@ -1,1 +1,15 @@
+{
+  "sections": {
+    "hero-section": {
+      "type": "hero-section",
+      "settings": {
+        "background_image": "path-to-your-image.jpg",
+        "heading": "Welcome to Norse Organics",
+        "subheading": "Discover the Power of Nature",
+        "cta_url": "/collections/all",
+        "cta_text": "Shop Now"
+      }
+    }
+  }
+}
 
